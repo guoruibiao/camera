@@ -5,7 +5,7 @@
 - 矿泉水瓶识别：https://blog.csdn.net/m0_37755995/article/details/125694741
 - 监测罐子或瓶子：https://www.codenong.com/23177580/
 - 检测图像移动：https://blog.51cto.com/u_11816402/5021909
-- 
+- opencv 代码参考：https://github.com/jimtan666/opencv-python
 
 问题类链接
 - rectangele bad argument: https://blog.csdn.net/qq_41131123/article/details/134620690
